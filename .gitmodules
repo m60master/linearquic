@@ -1,0 +1,9 @@
+[submodule "picoquic"]
+	path = picoquic
+	url = https://github.com/private-octopus/picoquic
+[submodule "picotls"]
+	path = picotls
+	url = https://github.com/h2o/picotls
+[submodule "quicdog"]
+	path = quicdog
+	url = https://github.com/private-octopus/quicdoq

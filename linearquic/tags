@@ -1,0 +1,715 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/jungyoon/workspace/quic/quicdoq/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+$(VERBOSE).SILENT	Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE)MAKESILENT	Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+%	Makefile	/^% : %,v$/;"	t
+%	Makefile	/^% : RCS\/%$/;"	t
+%	Makefile	/^% : RCS\/%,v$/;"	t
+%	Makefile	/^% : SCCS\/s.%$/;"	t
+%	Makefile	/^% : s.%$/;"	t
+ARCHITECTURE_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+BADARG	quicdoq_cli_test/getopt.c	/^#define BADARG /;"	d	file:
+BADCH	quicdoq_cli_test/getopt.c	/^#define BADCH /;"	d	file:
+Building Quicdoq	README.md	/^# Building Quicdoq$/;"	c
+Building the container	docker/README.md	/^## Building the container$/;"	s	chapter:DNS over QUIC container
+CMAKE_AR	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_AR "\/usr\/bin\/ar")$/;"	v
+CMAKE_AR	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_AR "\/usr\/bin\/ar")$/;"	v
+CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/jungyoon\/workspace\/quic\/quicdoq$/;"	m
+CMAKE_C11_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C11_COMPILE_FEATURES "c_std_11;c_static_assert")$/;"	v
+CMAKE_C17_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C17_COMPILE_FEATURES "c_std_17")$/;"	v
+CMAKE_C23_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C23_COMPILE_FEATURES "c_std_23")$/;"	v
+CMAKE_C90_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C90_COMPILE_FEATURES "c_std_90;c_function_prototypes")$/;"	v
+CMAKE_C99_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C99_COMPILE_FEATURES "c_std_99;c_restrict;c_variadic_macros")$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_C_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_CXX_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_COMMAND	Makefile	/^CMAKE_COMMAND = \/home\/jungyoon\/.miniconda3\/bin\/cmake$/;"	m
+CMAKE_COMPILER_IS_GNUCC	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCC 1)$/;"	v
+CMAKE_COMPILER_IS_GNUCXX	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCXX 1)$/;"	v
+CMAKE_CROSSCOMPILING	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CROSSCOMPILING	cmake_install.cmake	/^  set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CXX11_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX11_COMPILE_FEATURES "cxx_std_11;cxx_alias_templates;cxx_alignas;cxx_alignof;cxx_att/;"	v
+CMAKE_CXX14_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX14_COMPILE_FEATURES "cxx_std_14;cxx_aggregate_default_initializers;cxx_attribute_de/;"	v
+CMAKE_CXX17_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX17_COMPILE_FEATURES "cxx_std_17")$/;"	v
+CMAKE_CXX20_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX20_COMPILE_FEATURES "cxx_std_20")$/;"	v
+CMAKE_CXX23_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX23_COMPILE_FEATURES "cxx_std_23")$/;"	v
+CMAKE_CXX98_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX98_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters")$/;"	v
+CMAKE_CXX_ABI_COMPILED	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_ABI_COMPILED TRUE)$/;"	v
+CMAKE_CXX_BYTE_ORDER	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_CXX_CL_SHOWINCLUDES_PREFIX	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_CXX_COMPILER	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER "\/usr\/bin\/c++")$/;"	v
+CMAKE_CXX_COMPILER_ABI	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ABI "ELF")$/;"	v
+CMAKE_CXX_COMPILER_AR	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_AR "\/usr\/bin\/gcc-ar")$/;"	v
+CMAKE_CXX_COMPILER_ARG1	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ARG1 "")$/;"	v
+CMAKE_CXX_COMPILER_ENV_VAR	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ENV_VAR "CXX")$/;"	v
+CMAKE_CXX_COMPILER_FRONTEND_VARIANT	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_FRONTEND_VARIANT "")$/;"	v
+CMAKE_CXX_COMPILER_ID	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID "GNU")$/;"	v
+CMAKE_CXX_COMPILER_ID_RUN	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_CXX_COMPILER_LOADED	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_LOADED 1)$/;"	v
+CMAKE_CXX_COMPILER_RANLIB	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_RANLIB "\/usr\/bin\/gcc-ranlib")$/;"	v
+CMAKE_CXX_COMPILER_VERSION	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION "11.3.1")$/;"	v
+CMAKE_CXX_COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_CXX_COMPILER_WORKS	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_CXX_COMPILER_WRAPPER	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WRAPPER "")$/;"	v
+CMAKE_CXX_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters;cxx_std_11;cxx_alias/;"	v
+CMAKE_CXX_EXTENSIONS_COMPUTED_DEFAULT	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_EXTENSIONS_COMPUTED_DEFAULT "ON")$/;"	v
+CMAKE_CXX_IGNORE_EXTENSIONS	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IGNORE_EXTENSIONS inl;h;hpp;HPP;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "\/usr\/lib\/gcc\/x86_64-pc-linux-gnu\/11\/include\/g/;"	v
+CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "\/usr\/lib\/gcc\/x86_64-pc-linux-gnu\/11;\/usr\/lib64;\//;"	v
+CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")$/;"	v
+CMAKE_CXX_IMPLICIT_LINK_LIBRARIES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "stdc++;m;gcc_s;gcc;c;gcc_s;gcc")$/;"	v
+CMAKE_CXX_INCLUDE_REGEX_COMPLAIN	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_CXX_INCLUDE_REGEX_COMPLAIN ${CMAKE_C_INCLUDE_REGEX_COMPLAIN})$/;"	v
+CMAKE_CXX_INCLUDE_REGEX_SCAN	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_CXX_INCLUDE_REGEX_SCAN ${CMAKE_C_INCLUDE_REGEX_SCAN})$/;"	v
+CMAKE_CXX_LIBRARY_ARCHITECTURE	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE 30)$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES 1)$/;"	v
+CMAKE_CXX_PLATFORM_ID	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_PLATFORM_ID "Linux")$/;"	v
+CMAKE_CXX_SIMULATE_ID	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_ID "")$/;"	v
+CMAKE_CXX_SIMULATE_VERSION	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_VERSION "")$/;"	v
+CMAKE_CXX_SIZEOF_DATA_PTR	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_CXX_SOURCE_FILE_EXTENSIONS	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SOURCE_FILE_EXTENSIONS C;M;c++;cc;cpp;cxx;m;mm;mpp;CPP;ixx;cppm)$/;"	v
+CMAKE_CXX_STANDARD_COMPUTED_DEFAULT	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_STANDARD_COMPUTED_DEFAULT "17")$/;"	v
+CMAKE_C_ABI_COMPILED	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_ABI_COMPILED TRUE)$/;"	v
+CMAKE_C_BYTE_ORDER	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_C_CL_SHOWINCLUDES_PREFIX	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_C_COMPILER	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER "\/usr\/bin\/cc")$/;"	v
+CMAKE_C_COMPILER_ABI	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ABI "ELF")$/;"	v
+CMAKE_C_COMPILER_AR	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_AR "\/usr\/bin\/gcc-ar")$/;"	v
+CMAKE_C_COMPILER_ARG1	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ARG1 "")$/;"	v
+CMAKE_C_COMPILER_ENV_VAR	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ENV_VAR "CC")$/;"	v
+CMAKE_C_COMPILER_FRONTEND_VARIANT	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_FRONTEND_VARIANT "")$/;"	v
+CMAKE_C_COMPILER_ID	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ID "GNU")$/;"	v
+CMAKE_C_COMPILER_ID_RUN	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_C_COMPILER_LOADED	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_LOADED 1)$/;"	v
+CMAKE_C_COMPILER_RANLIB	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_RANLIB "\/usr\/bin\/gcc-ranlib")$/;"	v
+CMAKE_C_COMPILER_VERSION	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_VERSION "11.3.1")$/;"	v
+CMAKE_C_COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_C_COMPILER_WORKS	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_C_COMPILER_WRAPPER	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_WRAPPER "")$/;"	v
+CMAKE_C_COMPILE_FEATURES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILE_FEATURES "c_std_90;c_function_prototypes;c_std_99;c_restrict;c_variadic_macr/;"	v
+CMAKE_C_EXTENSIONS_COMPUTED_DEFAULT	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_EXTENSIONS_COMPUTED_DEFAULT "ON")$/;"	v
+CMAKE_C_FLAGS	CMakeLists.txt	/^    set(CMAKE_C_FLAGS "-DDISABLE_DEBUG_PRINTF ${CMAKE_C_FLAGS}")$/;"	v
+CMAKE_C_FLAGS	CMakeLists.txt	/^set(CMAKE_C_FLAGS "-std=c99 -Wall -Werror -O2 -g ${CC_WARNING_FLAGS} ${CMAKE_C_FLAGS}")$/;"	v
+CMAKE_C_IGNORE_EXTENSIONS	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_IGNORE_EXTENSIONS h;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "\/usr\/lib\/gcc\/x86_64-pc-linux-gnu\/11\/include;\/us/;"	v
+CMAKE_C_IMPLICIT_LINK_DIRECTORIES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "\/usr\/lib\/gcc\/x86_64-pc-linux-gnu\/11;\/usr\/lib64;\/l/;"	v
+CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")$/;"	v
+CMAKE_C_IMPLICIT_LINK_LIBRARIES	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "gcc;gcc_s;c;gcc;gcc_s")$/;"	v
+CMAKE_C_INCLUDE_REGEX_COMPLAIN	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_C_INCLUDE_REGEX_COMPLAIN "^$")$/;"	v
+CMAKE_C_INCLUDE_REGEX_SCAN	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_C_INCLUDE_REGEX_SCAN "^.*$")$/;"	v
+CMAKE_C_LIBRARY_ARCHITECTURE	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_C_LINKER_PREFERENCE	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_LINKER_PREFERENCE 10)$/;"	v
+CMAKE_C_PLATFORM_ID	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_PLATFORM_ID "Linux")$/;"	v
+CMAKE_C_SIMULATE_ID	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_SIMULATE_ID "")$/;"	v
+CMAKE_C_SIMULATE_VERSION	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_SIMULATE_VERSION "")$/;"	v
+CMAKE_C_SIZEOF_DATA_PTR	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_C_SOURCE_FILE_EXTENSIONS	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_SOURCE_FILE_EXTENSIONS c;m)$/;"	v
+CMAKE_C_STANDARD	CMakeLists.txt	/^set(CMAKE_C_STANDARD 11)$/;"	v
+CMAKE_C_STANDARD_COMPUTED_DEFAULT	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_C_STANDARD_COMPUTED_DEFAULT "17")$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	CMakeFiles/clangformat.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	CMakeFiles/quicdoq-core.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	CMakeFiles/quicdoq_app.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	CMakeFiles/quicdoq_t.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_GENERATOR	CMakeFiles/Makefile.cmake	/^set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	CMakeFiles/clangformat.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	CMakeFiles/quicdoq-core.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	CMakeFiles/quicdoq_app.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	CMakeFiles/quicdoq_t.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_LANGUAGES	CMakeFiles/clangformat.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	CMakeFiles/quicdoq-core.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	CMakeFiles/quicdoq_app.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	CMakeFiles/quicdoq_t.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPEND_INFO_FILES	CMakeFiles/Makefile.cmake	/^set(CMAKE_DEPEND_INFO_FILES$/;"	v
+CMAKE_FORCE_UNIX_PATHS	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_FORCE_UNIX_PATHS 1)$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	CMakeFiles/clangformat.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	CMakeFiles/quicdoq-core.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	CMakeFiles/quicdoq_app.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	CMakeFiles/quicdoq_t.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_HOST_SYSTEM	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM "Linux-6.1.19-gentoo-x86_64")$/;"	v
+CMAKE_HOST_SYSTEM_NAME	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_NAME "Linux")$/;"	v
+CMAKE_HOST_SYSTEM_PROCESSOR	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")$/;"	v
+CMAKE_HOST_SYSTEM_VERSION	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_VERSION "6.1.19-gentoo-x86_64")$/;"	v
+CMAKE_INSTALL_COMPONENT	cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")$/;"	v
+CMAKE_INSTALL_COMPONENT	cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT)$/;"	v
+CMAKE_INSTALL_CONFIG_NAME	cmake_install.cmake	/^    set(CMAKE_INSTALL_CONFIG_NAME "")$/;"	v
+CMAKE_INSTALL_MANIFEST	cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")$/;"	v
+CMAKE_INSTALL_MANIFEST	cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")$/;"	v
+CMAKE_INSTALL_PREFIX	cmake_install.cmake	/^  set(CMAKE_INSTALL_PREFIX "\/usr\/local")$/;"	v
+CMAKE_INSTALL_SO_NO_EXE	cmake_install.cmake	/^  set(CMAKE_INSTALL_SO_NO_EXE "0")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_C_COMPILER_ABI}")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_CXX_COMPILER_ABI}")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LINKER	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_LINKER "\/usr\/bin\/ld")$/;"	v
+CMAKE_LINKER	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_LINKER "\/usr\/bin\/ld")$/;"	v
+CMAKE_MAKEFILE_DEPENDS	CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_DEPENDS$/;"	v
+CMAKE_MAKEFILE_OUTPUTS	CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_OUTPUTS$/;"	v
+CMAKE_MAKEFILE_PRODUCTS	CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_PRODUCTS$/;"	v
+CMAKE_MODULE_PATH	CMakeLists.txt	/^set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}\/cmake")$/;"	v
+CMAKE_MT	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_MT	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_OBJDUMP	cmake_install.cmake	/^  set(CMAKE_OBJDUMP "\/usr\/bin\/objdump")$/;"	v
+CMAKE_RANLIB	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^set(CMAKE_RANLIB "\/usr\/bin\/ranlib")$/;"	v
+CMAKE_RANLIB	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^set(CMAKE_RANLIB "\/usr\/bin\/ranlib")$/;"	v
+CMAKE_RELATIVE_PATH_TOP_BINARY	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_RELATIVE_PATH_TOP_BINARY "\/home\/jungyoon\/workspace\/quic\/quicdoq")$/;"	v
+CMAKE_RELATIVE_PATH_TOP_SOURCE	CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_RELATIVE_PATH_TOP_SOURCE "\/home\/jungyoon\/workspace\/quic\/quicdoq")$/;"	v
+CMAKE_SIZEOF_VOID_P	CMakeFiles/3.22.1/CMakeCCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_C_SIZEOF_DATA_PTR}")$/;"	v
+CMAKE_SIZEOF_VOID_P	CMakeFiles/3.22.1/CMakeCXXCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_CXX_SIZEOF_DATA_PTR}")$/;"	v
+CMAKE_SOURCE_DIR	Makefile	/^CMAKE_SOURCE_DIR = \/home\/jungyoon\/workspace\/quic\/quicdoq$/;"	m
+CMAKE_SYSTEM	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_SYSTEM "Linux-6.1.19-gentoo-x86_64")$/;"	v
+CMAKE_SYSTEM_LOADED	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_LOADED 1)$/;"	v
+CMAKE_SYSTEM_NAME	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_NAME "Linux")$/;"	v
+CMAKE_SYSTEM_PROCESSOR	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_PROCESSOR "x86_64")$/;"	v
+CMAKE_SYSTEM_VERSION	CMakeFiles/3.22.1/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_VERSION "6.1.19-gentoo-x86_64")$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	CMakeFiles/clangformat.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	CMakeFiles/quicdoq-core.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	CMakeFiles/quicdoq_app.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	CMakeFiles/quicdoq_t.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+COMPILER_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+C_VERSION	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION /;"	d	file:
+C_VERSION	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION$/;"	d	file:
+C_VERSION	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define C_VERSION /;"	d	file:
+Configuration	docker/README.md	/^## Configuration$/;"	s	chapter:DNS over QUIC container
+DEC	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DNS over QUIC container	docker/README.md	/^# DNS over QUIC container$/;"	c
+EMSG	quicdoq_cli_test/getopt.c	/^#define EMSG /;"	d	file:
+EQUALS	Makefile	/^EQUALS = =$/;"	m
+GETOPT_H	quicdoq_cli_test/getopt.h	/^#define GETOPT_H$/;"	d
+HEX	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+ID_VOID_MAIN	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+NormalizeNamePart	quicdoq/quicdoq_util.c	/^uint8_t * NormalizeNamePart(size_t length, const uint8_t* value,$/;"	f	typeref:typename:uint8_t *
+Open issues	docker/README.md	/^## Open issues$/;"	s	chapter:DNS over QUIC container
+PCH_H	quicdoq_unittest/pch.h	/^#define PCH_H$/;"	d
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+PTLS_HINTS	cmake/FindPTLS.cmake	/^set(PTLS_HINTS ${CMAKE_BINARY_DIR}\/..\/picotls ..\/picotls)$/;"	v
+PTLS_INCLUDE_DIRS	cmake/FindPTLS.cmake	/^    set(PTLS_INCLUDE_DIRS ${PTLS_INCLUDE_DIR})$/;"	v
+PTLS_LIBRARIES	cmake/FindPTLS.cmake	/^    set(PTLS_LIBRARIES$/;"	v
+Picoquic on FreeBSD	README.md	/^## Picoquic on FreeBSD$/;"	s	chapter:Building Quicdoq
+Picoquic_HINTS	cmake/FindPicoquic.cmake	/^set(Picoquic_HINTS ${CMAKE_BINARY_DIR}\/..\/picoquic ..\/picoquic)$/;"	v
+Picoquic_INCLUDE_DIRS	cmake/FindPicoquic.cmake	/^    set(Picoquic_INCLUDE_DIRS$/;"	v
+Picoquic_LIBRARIES	cmake/FindPicoquic.cmake	/^    set(Picoquic_LIBRARIES$/;"	v
+QUICDOQ_ALPN	quicdoq/quicdoq.h	/^#define QUICDOQ_ALPN /;"	d
+QUICDOQ_DEMO_CLIENT_MAX_RECEIVE_BATCH	quicdoq_cli_app/quicdoq_app.c	/^#define QUICDOQ_DEMO_CLIENT_MAX_RECEIVE_BATCH /;"	d	file:
+QUICDOQ_ERROR_EXCESSIVE_LOAD	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_EXCESSIVE_LOAD /;"	d
+QUICDOQ_ERROR_INTERNAL	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_INTERNAL /;"	d
+QUICDOQ_ERROR_NO_ERROR	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_NO_ERROR /;"	d
+QUICDOQ_ERROR_PROTOCOL	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_PROTOCOL /;"	d
+QUICDOQ_ERROR_QUERY_TOO_LONG	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_QUERY_TOO_LONG /;"	d
+QUICDOQ_ERROR_REQUEST_CANCELLED	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_REQUEST_CANCELLED /;"	d
+QUICDOQ_ERROR_RESERVED	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_RESERVED /;"	d
+QUICDOQ_ERROR_RESPONSE_TIME_OUT	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_RESPONSE_TIME_OUT /;"	d
+QUICDOQ_ERROR_RESPONSE_TOO_LONG	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_RESPONSE_TOO_LONG /;"	d
+QUICDOQ_ERROR_UNSPECIFIED_ERROR	quicdoq/quicdoq.h	/^#define QUICDOQ_ERROR_UNSPECIFIED_ERROR /;"	d
+QUICDOQ_LIBRARY_FILES	CMakeLists.txt	/^set(QUICDOQ_LIBRARY_FILES$/;"	v
+QUICDOQ_MAX_STREAM_DATA	quicdoq/quicdoq.h	/^#define QUICDOQ_MAX_STREAM_DATA /;"	d
+QUICDOQ_PICOQUIC_DEFAULT_SOLUTION_DIR	quicdoq_test/network_test.c	/^#define QUICDOQ_PICOQUIC_DEFAULT_SOLUTION_DIR /;"	d	file:
+QUICDOQ_PORT	quicdoq/quicdoq.h	/^#define QUICDOQ_PORT /;"	d
+QUICDOQ_TEST_LIBRARY_FILES	CMakeLists.txt	/^set(QUICDOQ_TEST_LIBRARY_FILES$/;"	v
+QUICDOQ_UDP_DEFAULT_RTO	quicdoq/quicdoq_internal.h	/^#define QUICDOQ_UDP_DEFAULT_RTO /;"	d
+QUICDOQ_UDP_MAX_REPEAT	quicdoq/quicdoq_internal.h	/^#define QUICDOQ_UDP_MAX_REPEAT /;"	d
+QUICDOQ_VERSION	quicdoq/quicdoq.h	/^#define QUICDOQ_VERSION /;"	d
+Quicdoq components	README.md	/^# Quicdoq components$/;"	c
+Quicdoq on Linux	README.md	/^## Quicdoq on Linux$/;"	s	chapter:Building Quicdoq
+Quicdoq on MacOSX	README.md	/^## Quicdoq on MacOSX$/;"	s	chapter:Building Quicdoq
+Quicdoq on Windows	README.md	/^## Quicdoq on Windows$/;"	s	chapter:Building Quicdoq
+RM	Makefile	/^RM = \/home\/jungyoon\/.miniconda3\/bin\/cmake -E rm -f$/;"	m
+Running the container	docker/README.md	/^## Running the container$/;"	s	chapter:DNS over QUIC container
+Running the demo application	README.md	/^# Running the demo application$/;"	c
+SERVER_CERT_FILE	quicdoq_cli_app/quicdoq_app.c	/^#define SERVER_CERT_FILE /;"	d	file:
+SERVER_KEY_FILE	quicdoq_cli_app/quicdoq_app.c	/^#define SERVER_KEY_FILE /;"	d	file:
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+Sending a query	docker/README.md	/^## Sending a query $/;"	s	chapter:DNS over QUIC container
+TEST_CLASS	quicdoq_unittest/quicdoq_unittest.cpp	/^	TEST_CLASS(quicdoqunittest)$/;"	f	namespace:quicdoqunittest
+TEST_EXES	CMakeLists.txt	/^set(TEST_EXES quicdoq_t)$/;"	v
+WIN32_LEAN_AND_MEAN	quicdoq_cli_app/quicdoq_app.c	/^#define WIN32_LEAN_AND_MEAN$/;"	d	file:
+_GETOPT_H	quicdoq_cli_test/getopt.h	/^#define _GETOPT_H$/;"	d
+__USE_POSIX	quicdoq_cli_app/quicdoq_app.c	/^#define __USE_POSIX$/;"	d	file:
+__USE_XOPEN2K	quicdoq_cli_app/quicdoq_app.c	/^#define __USE_XOPEN2K$/;"	d	file:
+__anon6f383e1a0103	quicdoq_cli_test/quicdoq_t.c	/^typedef enum {$/;"	g	file:
+__anon7c3cbeb60103	quicdoq/quicdoq.h	/^    typedef enum {$/;"	g
+__has_include	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^#  define __has_include(/;"	d	file:
+__has_include	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define __has_include(/;"	d	file:
+addr	quicdoq/quicdoq_internal.h	/^    struct sockaddr_storage addr;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:struct:sockaddr_storage
+all	Makefile	/^all: cmake_check_build_system$/;"	t
+all_queries_served	quicdoq_cli_app/quicdoq_app.c	/^    int all_queries_served;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:int	file:
+all_query_served	quicdoq_test/network_test.c	/^    int all_query_served;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:int	file:
+app_cb_ctx	quicdoq/quicdoq_internal.h	/^    void* app_cb_ctx; \/* callback_ctx provided to applications *\/$/;"	m	struct:st_quicdoq_ctx_t	typeref:typename:void *
+app_cb_fn	quicdoq/quicdoq_internal.h	/^    quicdoq_app_cb_fn app_cb_fn; \/* Application callback function *\/$/;"	m	struct:st_quicdoq_ctx_t	typeref:typename:quicdoq_app_cb_fn
+basic_scenario	quicdoq_test/network_test.c	/^static quicdoq_test_scenario_entry_t const basic_scenario[] = {$/;"	v	typeref:typename:quicdoq_test_scenario_entry_t const[]	file:
+bytes_received	quicdoq/quicdoq_internal.h	/^    size_t bytes_received;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:size_t
+bytes_sent	quicdoq/quicdoq_internal.h	/^    size_t bytes_sent;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:size_t
+cancel_received	quicdoq_test/network_test.c	/^    int cancel_received;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:int	file:
+cid	quicdoq/quicdoq.h	/^        picoquic_connection_id_t cid; \/* ID of the connection over which the query was sent. *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:picoquic_connection_id_t
+cid	quicdoq_test/network_test.c	/^    picoquic_connection_id_t cid; \/* ID of the connection over which the query was sent. *\/$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:picoquic_connection_id_t	file:
+clangformat	CMakeLists.txt	/^    clangformat$/;"	t
+clangformat	Makefile	/^clangformat: cmake_check_build_system$/;"	t
+clangformat/fast	Makefile	/^clangformat\/fast:$/;"	t
+clean	Makefile	/^clean:$/;"	t
+clean/fast	Makefile	/^clean\/fast: clean$/;"	t
+client_addr	quicdoq/quicdoq.h	/^        struct sockaddr* client_addr; \/* Address of the client if known connection *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:struct:sockaddr *
+client_addr	quicdoq_test/network_test.c	/^    struct sockaddr_storage client_addr;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:struct:sockaddr_storage	file:
+client_cb	quicdoq/quicdoq.h	/^        quicdoq_app_cb_fn client_cb; \/* Callback function for this query *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:quicdoq_app_cb_fn
+client_cb_ctx	quicdoq/quicdoq.h	/^        void* client_cb_ctx; \/* callback context for this query *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:void *
+client_link	quicdoq_test/network_test.c	/^    picoquictest_sim_link_t* client_link;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:picoquictest_sim_link_t *	file:
+client_mode	quicdoq/quicdoq_internal.h	/^    unsigned int client_mode : 1;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:unsigned int:1
+cmake_check_build_system	Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	Makefile	/^cmake_force:$/;"	t
+cnx	quicdoq/quicdoq_internal.h	/^    picoquic_cnx_t* cnx;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:typename:picoquic_cnx_t *
+cnx_ctx	quicdoq/quicdoq_internal.h	/^    quicdoq_cnx_ctx_t* cnx_ctx;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:quicdoq_cnx_ctx_t *
+const	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+default_callback_ctx	quicdoq/quicdoq_internal.h	/^    quicdoq_cnx_ctx_t default_callback_ctx; \/* Default context provided to new connections *\/$/;"	m	struct:st_quicdoq_ctx_t	typeref:typename:quicdoq_cnx_ctx_t
+default_target	Makefile	/^default_target: all$/;"	t
+depend	Makefile	/^depend:$/;"	t
+dns	quicdoq_test/dnscode_test.c	/^    uint8_t* dns;$/;"	m	struct:st_dnscode_testLine	typeref:typename:uint8_t *	file:
+dns_length	quicdoq_test/dnscode_test.c	/^    size_t dns_length;$/;"	m	struct:st_dnscode_testLine	typeref:typename:size_t	file:
+dns_query_format_test	quicdoq_test/dnscode_test.c	/^int dns_query_format_test()$/;"	f	typeref:typename:int
+dns_query_parse_test	quicdoq_test/dnscode_test.c	/^int dns_query_parse_test()$/;"	f	typeref:typename:int
+dns_query_parse_test_one	quicdoq_test/dnscode_test.c	/^int dns_query_parse_test_one(const uint8_t * query, size_t query_size, char const * query_json)$/;"	f	typeref:typename:int
+dns_refuse_format_test	quicdoq_test/dnscode_test.c	/^int dns_refuse_format_test()$/;"	f	typeref:typename:int
+dnscode_test1	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test1[] = { 7, 'e', 'x', 'a', 'm', 'p', 'l', 'e', 3, 'c', 'o', 'm', 0 };$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test2	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test2[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', '-', '2', 3, 'c', 'o', /;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test3	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test3[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', '_', '3', 3, 'c', 'o', /;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test4	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test4[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', ':', '4', 3, 'c', 'o', /;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test5	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test5[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', '.', '5', 3, 'c', 'o', /;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test6	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test6[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', 0x7F, '6', 3, 'c', 'o',/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test7	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test7[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', ' ', '7', 3, 'c', 'o', /;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test8	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test8[] = { 10, ' ', 'e', 'x', 'a', 'm', 'p', 'l', 'e', '-', '8', 3, 'c',/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test9	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test9[] = { 9, 'e', 'x', 'a', 'm', 'p', 'l', 'e', '-', '9', 3, 0x8c, 0xFF/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_testData	quicdoq_test/dnscode_test.c	/^} dnscode_testData[] = {$/;"	v	typeref:struct:st_dnscode_testLine[]
+dnscode_test_query0	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_query0[] = {   1, 255, 1, 0,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_query0_json	quicdoq_test/dnscode_test.c	/^static char const* dnscode_test_query0_json =$/;"	v	typeref:typename:char const *	file:
+dnscode_test_query_bad_format	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_query_bad_format[] = { 1, 255, 1, 0,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_query_bare	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_query_bare[] = { 1, 255, 1, 0,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_query_edns	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_query_edns[] = { 1, 255, 1, 0,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_query_multiple	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_query_multiple[] = { 1, 255, 1, 0,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_refuse_bare	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_refuse_bare[] = { 1, 255, 0x81, 5,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_refuse_edns	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_refuse_edns[] = { 1, 255, 0x81, 5,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_refuse_multiple	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_refuse_multiple[] = { 1, 255, 0x81, 5,$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_response0	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_response0[] = {$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_response0_json	quicdoq_test/dnscode_test.c	/^static const char* dnscode_test_response0_json = $/;"	v	typeref:typename:const char *	file:
+dnscode_test_response1	quicdoq_test/dnscode_test.c	/^static uint8_t dnscode_test_response1[] = {$/;"	v	typeref:typename:uint8_t[]	file:
+dnscode_test_response1_json	quicdoq_test/dnscode_test.c	/^static const char* dnscode_test_response1_json =$/;"	v	typeref:typename:const char *	file:
+do_one_test	quicdoq_cli_test/quicdoq_t.c	/^static int do_one_test(size_t i, FILE* F)$/;"	f	typeref:typename:int	file:
+drtt	quicdoq/quicdoq_internal.h	/^    uint64_t drtt;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:uint64_t
+edit_cache	Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+expected	quicdoq_test/dnscode_test.c	/^    char const* expected;$/;"	m	struct:st_dnscode_testLine	typeref:typename:char const *	file:
+first_cnx	quicdoq/quicdoq_internal.h	/^    struct st_quicdoq_cnx_ctx_t* first_cnx; \/* First in double linked list of open connections /;"	m	struct:st_quicdoq_ctx_t	typeref:struct:st_quicdoq_cnx_ctx_t *
+first_query	quicdoq/quicdoq_internal.h	/^    quicdog_udp_queued_t* first_query;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:quicdog_udp_queued_t *
+first_stream	quicdoq/quicdoq_internal.h	/^    quicdoq_stream_ctx_t* first_stream;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:typename:quicdoq_stream_ctx_t *
+get_test_number	quicdoq_cli_test/quicdoq_t.c	/^int get_test_number(char const* test_name)$/;"	f	typeref:typename:int
+getopt	quicdoq_cli_test/getopt.c	/^int getopt(int nargc, char* const nargv[], const char* ostr)$/;"	f	typeref:typename:int
+help	Makefile	/^help:$/;"	t
+if_index	quicdoq/quicdoq_internal.h	/^    int if_index;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:int
+info_arch	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_extensions_default	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v	typeref:typename:const char *
+info_language_extensions_default	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v	typeref:typename:const char *
+info_language_standard_default	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_standard_default =$/;"	v	typeref:typename:const char *
+info_language_standard_default	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_standard_default = "INFO" ":" "standard_default["$/;"	v	typeref:typename:const char *
+info_platform	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version_internal	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+info_version_internal	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+is_query_complete	quicdoq_cli_app/quicdoq_app.c	/^    int * is_query_complete;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:int *	file:
+is_server	quicdoq/quicdoq_internal.h	/^    int is_server;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:typename:int
+is_success	quicdoq_test/network_test.c	/^    int is_success;$/;"	m	struct:st_quicdoq_test_scenario_entry_t	typeref:typename:int	file:
+is_success	quicdoq_test/network_test.c	/^    int is_success;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:int	file:
+last_cnx	quicdoq/quicdoq_internal.h	/^    struct st_quicdoq_cnx_ctx_t* last_cnx; \/* last in list of open connections in this context /;"	m	struct:st_quicdoq_ctx_t	typeref:struct:st_quicdoq_cnx_ctx_t *
+last_query	quicdoq/quicdoq_internal.h	/^    quicdog_udp_queued_t* last_query;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:quicdog_udp_queued_t *
+last_stream	quicdoq/quicdoq_internal.h	/^    quicdoq_stream_ctx_t* last_stream;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:typename:quicdoq_stream_ctx_t *
+length_received	quicdoq/quicdoq_internal.h	/^    uint16_t length_received;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:uint16_t
+local_addr	quicdoq/quicdoq_internal.h	/^    struct sockaddr_storage local_addr;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:struct:sockaddr_storage
+main	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	quicdoq_cli_app/quicdoq_app.c	/^int main(int argc, char** argv)$/;"	f	typeref:typename:int
+main	quicdoq_cli_test/quicdoq_t.c	/^int main(int argc, char** argv)$/;"	f	typeref:typename:int
+multi_queries_scenario	quicdoq_test/network_test.c	/^static quicdoq_test_scenario_entry_t const multi_queries_scenario[] = {$/;"	v	typeref:typename:quicdoq_test_scenario_entry_t const[]	file:
+name_format_test	quicdoq_test/dnscode_test.c	/^int name_format_test()$/;"	f	typeref:typename:int
+name_parse_test	quicdoq_test/dnscode_test.c	/^int name_parse_test()$/;"	f	typeref:typename:int
+nb_client_queries	quicdoq_cli_app/quicdoq_app.c	/^    uint16_t nb_client_queries;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:uint16_t	file:
+nb_rr_table	quicdoq/quicdoq_util.c	/^const size_t nb_rr_table = sizeof(rr_table) \/ sizeof(quicdoq_rr_entry_t);$/;"	v	typeref:typename:const size_t
+nb_scenarios	quicdoq_test/network_test.c	/^    uint16_t nb_scenarios;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:uint16_t	file:
+nb_sent	quicdoq/quicdoq_internal.h	/^    int nb_sent;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:typename:int
+nb_tests	quicdoq_cli_test/quicdoq_t.c	/^static size_t const nb_tests = sizeof(test_table) \/ sizeof(picoquic_test_def_t);$/;"	v	typeref:typename:size_t const	file:
+next	quicdoq/quicdoq_internal.h	/^    struct st_quicdog_udp_queued_t* next;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:struct:st_quicdog_udp_queued_t *
+next_available_stream_id	quicdoq/quicdoq_internal.h	/^    uint64_t next_available_stream_id; \/* starts with stream 0 on client *\/$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:typename:uint64_t
+next_cnx	quicdoq/quicdoq_internal.h	/^    struct st_quicdoq_cnx_ctx_t* next_cnx;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:struct:st_quicdoq_cnx_ctx_t *
+next_id	quicdoq/quicdoq_internal.h	/^    uint16_t next_id;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:uint16_t
+next_query_id	quicdoq/quicdoq_internal.h	/^    uint64_t next_query_id; \/* Assign a unique ID to each new context *\/$/;"	m	struct:st_quicdoq_ctx_t	typeref:typename:uint64_t
+next_query_id	quicdoq_cli_app/quicdoq_app.c	/^    uint16_t next_query_id;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:uint16_t	file:
+next_query_id	quicdoq_test/network_test.c	/^    uint16_t next_query_id;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:uint16_t	file:
+next_query_time	quicdoq_cli_app/quicdoq_app.c	/^    uint64_t next_query_time;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:uint64_t	file:
+next_query_time	quicdoq_test/network_test.c	/^    uint64_t next_query_time;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:uint64_t	file:
+next_response_id	quicdoq_test/network_test.c	/^    uint16_t next_response_id;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:uint16_t	file:
+next_response_time	quicdoq_test/network_test.c	/^    uint64_t next_response_time;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:uint64_t	file:
+next_send_time	quicdoq/quicdoq_internal.h	/^    uint64_t next_send_time;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:typename:uint64_t
+next_stream	quicdoq/quicdoq_internal.h	/^    quicdoq_stream_ctx_t* next_stream;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:quicdoq_stream_ctx_t *
+next_wake_time	quicdoq/quicdoq_internal.h	/^    uint64_t next_wake_time;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:uint64_t
+one_loss_scenario	quicdoq_test/network_test.c	/^static quicdoq_test_scenario_entry_t const one_loss_scenario[] = {$/;"	v	typeref:typename:quicdoq_test_scenario_entry_t const[]	file:
+optarg	quicdoq_cli_test/getopt.c	/^const char* optarg; \/* argument associated with option *\/$/;"	v	typeref:typename:const char *
+opterr	quicdoq_cli_test/getopt.c	/^int opterr = 1, \/* if error message should be printed *\/$/;"	v	typeref:typename:int
+optind	quicdoq_cli_test/getopt.c	/^    optind = 1, \/* index into parent argv vector *\/$/;"	v	typeref:typename:int
+optopt	quicdoq_cli_test/getopt.c	/^    optopt, \/* character checked for validity *\/$/;"	v	typeref:typename:int
+optreset	quicdoq_cli_test/getopt.c	/^    optreset; \/* reset getopt *\/$/;"	v	typeref:typename:int
+parse_target_version	quicdoq_cli_app/quicdoq_app.c	/^uint32_t parse_target_version(char const* v_arg)$/;"	f	typeref:typename:uint32_t
+picoquic_test_def_t	quicdoq_cli_test/quicdoq_t.c	/^} picoquic_test_def_t;$/;"	t	typeref:struct:st_picoquic_test_def_t	file:
+preinstall	Makefile	/^preinstall: all$/;"	t
+preinstall/fast	Makefile	/^preinstall\/fast:$/;"	t
+previous	quicdoq/quicdoq_internal.h	/^    struct st_quicdog_udp_queued_t* previous;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:struct:st_quicdog_udp_queued_t *
+previous_cnx	quicdoq/quicdoq_internal.h	/^    struct st_quicdoq_cnx_ctx_t* previous_cnx;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:struct:st_quicdoq_cnx_ctx_t *
+previous_stream	quicdoq/quicdoq_internal.h	/^    quicdoq_stream_ctx_t* previous_stream;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:quicdoq_stream_ctx_t *
+qd_client	quicdoq_cli_app/quicdoq_app.c	/^    quicdoq_ctx_t* qd_client;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:quicdoq_ctx_t *	file:
+qd_client	quicdoq_test/network_test.c	/^    quicdoq_ctx_t* qd_client;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:quicdoq_ctx_t *	file:
+qd_server	quicdoq_test/network_test.c	/^    quicdoq_ctx_t* qd_server;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:quicdoq_ctx_t *	file:
+qnxnto	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+query	quicdoq/quicdoq.h	/^        uint8_t* query; \/* buffer holding the query *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint8_t *
+query_arrival_time	quicdoq/quicdoq_internal.h	/^    uint64_t query_arrival_time;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:typename:uint64_t
+query_arrival_time	quicdoq_test/network_test.c	/^    uint64_t query_arrival_time;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:uint64_t	file:
+query_ctx	quicdoq/quicdoq_internal.h	/^    quicdoq_query_ctx_t* query_ctx;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:typename:quicdoq_query_ctx_t *
+query_ctx	quicdoq/quicdoq_internal.h	/^    quicdoq_query_ctx_t* query_ctx;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:quicdoq_query_ctx_t *
+query_ctx	quicdoq_cli_app/quicdoq_app.c	/^    quicdoq_query_ctx_t** query_ctx;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:quicdoq_query_ctx_t **	file:
+query_id	quicdoq/quicdoq.h	/^        uint64_t query_id; \/* Unique ID of the query, assigned by the client *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint64_t
+query_length	quicdoq/quicdoq.h	/^        uint16_t query_length; \/* length of the query *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint16_t
+query_max_size	quicdoq/quicdoq.h	/^        uint16_t query_max_size; \/* length of the query *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint16_t
+query_received	quicdoq_test/network_test.c	/^    int query_received;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:int	file:
+query_sent	quicdoq_test/network_test.c	/^    int query_sent;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:int	file:
+query_sent_time	quicdoq_test/network_test.c	/^    uint64_t query_sent_time;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:uint64_t	file:
+queued_packet	quicdoq_test/network_test.c	/^    picoquictest_sim_packet_t* queued_packet;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:picoquictest_sim_packet_t *	file:
+queued_response	quicdoq_test/network_test.c	/^    quicdoq_query_ctx_t* queued_response;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:quicdoq_query_ctx_t *	file:
+quic	quicdoq/quicdoq.h	/^        picoquic_quic_t* quic; \/* Quic context for logging *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:picoquic_quic_t *
+quic	quicdoq/quicdoq_internal.h	/^    picoquic_quic_t* quic; \/* The quic context for the DoQ service *\/$/;"	m	struct:st_quicdoq_ctx_t	typeref:typename:picoquic_quic_t *
+quicdog_format_dns_name	quicdoq/quicdoq_util.c	/^uint8_t* quicdog_format_dns_name(uint8_t* data, uint8_t* data_max, char const* name)$/;"	f	typeref:typename:uint8_t *
+quicdog_format_dns_query	quicdoq/quicdoq_util.c	/^uint8_t* quicdog_format_dns_query(uint8_t* data, uint8_t* data_max, char const* qname, uint16_t /;"	f	typeref:typename:uint8_t *
+quicdog_test_ctx_t	quicdoq_test/network_test.c	/^} quicdog_test_ctx_t;$/;"	t	typeref:struct:st_quicdog_test_ctx_t	file:
+quicdog_test_get_format_response	quicdoq_test/network_test.c	/^int quicdog_test_get_format_response($/;"	f	typeref:typename:int
+quicdog_test_get_query_id_by_stream_id	quicdoq_test/network_test.c	/^uint16_t quicdog_test_get_query_id_by_stream_id(quicdoq_query_ctx_t* query_ctx, quicdog_test_ctx/;"	f	typeref:typename:uint16_t
+quicdog_udp_queued_t	quicdoq/quicdoq_internal.h	/^} quicdog_udp_queued_t;$/;"	t	typeref:struct:st_quicdog_udp_queued_t
+quicdoq	CMakeLists.txt	/^project(quicdoq C CXX)$/;"	p
+quicdoq	CMakeLists.txt	/^project(quicdoq$/;"	p
+quicdoq	README.md	/^# quicdoq$/;"	c
+quicdoq-core	CMakeLists.txt	/^add_library(quicdoq-core$/;"	t
+quicdoq-core	Makefile	/^quicdoq-core: cmake_check_build_system$/;"	t
+quicdoq-core/fast	Makefile	/^quicdoq-core\/fast:$/;"	t
+quicdoq/quicdoq.c.i	Makefile	/^quicdoq\/quicdoq.c.i:$/;"	t
+quicdoq/quicdoq.c.o	Makefile	/^quicdoq\/quicdoq.c.o:$/;"	t
+quicdoq/quicdoq.c.s	Makefile	/^quicdoq\/quicdoq.c.s:$/;"	t
+quicdoq/quicdoq.i	Makefile	/^quicdoq\/quicdoq.i: quicdoq\/quicdoq.c.i$/;"	t
+quicdoq/quicdoq.o	Makefile	/^quicdoq\/quicdoq.o: quicdoq\/quicdoq.c.o$/;"	t
+quicdoq/quicdoq.s	Makefile	/^quicdoq\/quicdoq.s: quicdoq\/quicdoq.c.s$/;"	t
+quicdoq/quicdoq_util.c.i	Makefile	/^quicdoq\/quicdoq_util.c.i:$/;"	t
+quicdoq/quicdoq_util.c.o	Makefile	/^quicdoq\/quicdoq_util.c.o:$/;"	t
+quicdoq/quicdoq_util.c.s	Makefile	/^quicdoq\/quicdoq_util.c.s:$/;"	t
+quicdoq/quicdoq_util.i	Makefile	/^quicdoq\/quicdoq_util.i: quicdoq\/quicdoq_util.c.i$/;"	t
+quicdoq/quicdoq_util.o	Makefile	/^quicdoq\/quicdoq_util.o: quicdoq\/quicdoq_util.c.o$/;"	t
+quicdoq/quicdoq_util.s	Makefile	/^quicdoq\/quicdoq_util.s: quicdoq\/quicdoq_util.c.s$/;"	t
+quicdoq/udp_relay.c.i	Makefile	/^quicdoq\/udp_relay.c.i:$/;"	t
+quicdoq/udp_relay.c.o	Makefile	/^quicdoq\/udp_relay.c.o:$/;"	t
+quicdoq/udp_relay.c.s	Makefile	/^quicdoq\/udp_relay.c.s:$/;"	t
+quicdoq/udp_relay.i	Makefile	/^quicdoq\/udp_relay.i: quicdoq\/udp_relay.c.i$/;"	t
+quicdoq/udp_relay.o	Makefile	/^quicdoq\/udp_relay.o: quicdoq\/udp_relay.c.o$/;"	t
+quicdoq/udp_relay.s	Makefile	/^quicdoq\/udp_relay.s: quicdoq\/udp_relay.c.s$/;"	t
+quicdoq_H	quicdoq/quicdoq.h	/^#define quicdoq_H$/;"	d
+quicdoq_add_char	quicdoq/quicdoq_util.c	/^uint8_t* quicdoq_add_char(uint8_t* text, uint8_t* text_max, uint8_t c)$/;"	f	typeref:typename:uint8_t *
+quicdoq_add_hex	quicdoq/quicdoq_util.c	/^uint8_t* quicdoq_add_hex(uint8_t* text, uint8_t* text_max, const uint8_t* data, size_t ldata)$/;"	f	typeref:typename:uint8_t *
+quicdoq_add_label	quicdoq/quicdoq_util.c	/^uint8_t* quicdoq_add_label(uint8_t* text, uint8_t* text_max, char const* s, size_t l)$/;"	f	typeref:typename:uint8_t *
+quicdoq_add_label_num	quicdoq/quicdoq_util.c	/^uint8_t* quicdoq_add_label_num(uint8_t* text, uint8_t* text_max, char const* s,int v)$/;"	f	typeref:typename:uint8_t *
+quicdoq_add_string	quicdoq/quicdoq_util.c	/^uint8_t* quicdoq_add_string(uint8_t* text, uint8_t* text_max, char const * s, size_t l)$/;"	f	typeref:typename:uint8_t *
+quicdoq_app	CMakeLists.txt	/^add_executable(quicdoq_app$/;"	t
+quicdoq_app	Makefile	/^quicdoq_app: cmake_check_build_system$/;"	t
+quicdoq_app/fast	Makefile	/^quicdoq_app\/fast:$/;"	t
+quicdoq_app_cb_fn	quicdoq/quicdoq.h	/^    typedef int (*quicdoq_app_cb_fn)($/;"	t	typeref:typename:int (*)(quicdoq_query_return_enum callback_code,void * callback_ctx,quicdoq_query_ctx_t * query_ctx,uint64_t current_time)
+quicdoq_basic_test	quicdoq_test/network_test.c	/^int quicdoq_basic_test()$/;"	f	typeref:typename:int
+quicdoq_basic_udp_test	quicdoq_test/network_test.c	/^int quicdoq_basic_udp_test()$/;"	f	typeref:typename:int
+quicdoq_callback	quicdoq/quicdoq.c	/^int quicdoq_callback(picoquic_cnx_t* cnx,$/;"	f	typeref:typename:int
+quicdoq_callback_create_context	quicdoq/quicdoq.c	/^quicdoq_cnx_ctx_t* quicdoq_callback_create_context(quicdoq_ctx_t* quicdoq_ctx, int is_server, pi/;"	f	typeref:typename:quicdoq_cnx_ctx_t *
+quicdoq_callback_data	quicdoq/quicdoq.c	/^int quicdoq_callback_data(picoquic_cnx_t* cnx, quicdoq_stream_ctx_t* stream_ctx, uint64_t stream/;"	f	typeref:typename:int
+quicdoq_callback_delete_context	quicdoq/quicdoq.c	/^void quicdoq_callback_delete_context(quicdoq_cnx_ctx_t* cnx_ctx)$/;"	f	typeref:typename:void
+quicdoq_callback_prepare_to_send	quicdoq/quicdoq.c	/^int quicdoq_callback_prepare_to_send(picoquic_cnx_t* cnx, uint64_t stream_id, quicdoq_stream_ctx/;"	f	typeref:typename:int
+quicdoq_cancel_query	quicdoq/quicdoq.c	/^int quicdoq_cancel_query(quicdoq_ctx_t* quicdoq_ctx, quicdoq_query_ctx_t* query_ctx)$/;"	f	typeref:typename:int
+quicdoq_cancel_response	quicdoq/quicdoq.c	/^int quicdoq_cancel_response(quicdoq_ctx_t* quicdoq_ctx, quicdoq_query_ctx_t* query_ctx, uint16_t/;"	f	typeref:typename:int
+quicdoq_check_tp	quicdoq/quicdoq.c	/^int quicdoq_check_tp(quicdoq_cnx_ctx_t* cnx_ctx, picoquic_cnx_t* cnx)$/;"	f	typeref:typename:int
+quicdoq_cli_app/quicdoq_app.c.i	Makefile	/^quicdoq_cli_app\/quicdoq_app.c.i:$/;"	t
+quicdoq_cli_app/quicdoq_app.c.o	Makefile	/^quicdoq_cli_app\/quicdoq_app.c.o:$/;"	t
+quicdoq_cli_app/quicdoq_app.c.s	Makefile	/^quicdoq_cli_app\/quicdoq_app.c.s:$/;"	t
+quicdoq_cli_app/quicdoq_app.i	Makefile	/^quicdoq_cli_app\/quicdoq_app.i: quicdoq_cli_app\/quicdoq_app.c.i$/;"	t
+quicdoq_cli_app/quicdoq_app.o	Makefile	/^quicdoq_cli_app\/quicdoq_app.o: quicdoq_cli_app\/quicdoq_app.c.o$/;"	t
+quicdoq_cli_app/quicdoq_app.s	Makefile	/^quicdoq_cli_app\/quicdoq_app.s: quicdoq_cli_app\/quicdoq_app.c.s$/;"	t
+quicdoq_cli_test/quicdoq_t.c.i	Makefile	/^quicdoq_cli_test\/quicdoq_t.c.i:$/;"	t
+quicdoq_cli_test/quicdoq_t.c.o	Makefile	/^quicdoq_cli_test\/quicdoq_t.c.o:$/;"	t
+quicdoq_cli_test/quicdoq_t.c.s	Makefile	/^quicdoq_cli_test\/quicdoq_t.c.s:$/;"	t
+quicdoq_cli_test/quicdoq_t.i	Makefile	/^quicdoq_cli_test\/quicdoq_t.i: quicdoq_cli_test\/quicdoq_t.c.i$/;"	t
+quicdoq_cli_test/quicdoq_t.o	Makefile	/^quicdoq_cli_test\/quicdoq_t.o: quicdoq_cli_test\/quicdoq_t.c.o$/;"	t
+quicdoq_cli_test/quicdoq_t.s	Makefile	/^quicdoq_cli_test\/quicdoq_t.s: quicdoq_cli_test\/quicdoq_t.c.s$/;"	t
+quicdoq_client	quicdoq_cli_app/quicdoq_app.c	/^int quicdoq_client(const char* server_name, int server_port, int dest_if,$/;"	f	typeref:typename:int
+quicdoq_client_internal_H	quicdoq/quicdoq_internal.h	/^#define quicdoq_client_internal_H$/;"	d
+quicdoq_cnx_ctx_t	quicdoq/quicdoq.h	/^    typedef struct st_quicdoq_cnx_ctx_t quicdoq_cnx_ctx_t;$/;"	t	typeref:struct:st_quicdoq_cnx_ctx_t
+quicdoq_cnx_ctx_t	quicdoq/quicdoq_internal.h	/^} quicdoq_cnx_ctx_t;$/;"	t	typeref:struct:st_quicdoq_cnx_ctx_t
+quicdoq_create	quicdoq/quicdoq.c	/^quicdoq_ctx_t * quicdoq_create(char const * alpn,$/;"	f	typeref:typename:quicdoq_ctx_t *
+quicdoq_create_client_cnx	quicdoq/quicdoq.c	/^quicdoq_cnx_ctx_t* quicdoq_create_client_cnx(quicdoq_ctx_t* quicdoq_ctx, char const* sni, struct/;"	f	typeref:typename:quicdoq_cnx_ctx_t *
+quicdoq_create_query_ctx	quicdoq/quicdoq.c	/^quicdoq_query_ctx_t* quicdoq_create_query_ctx(uint16_t query_max_size, uint16_t response_max_siz/;"	f	typeref:typename:quicdoq_query_ctx_t *
+quicdoq_create_udp_ctx	quicdoq/udp_relay.c	/^quicdoq_udp_ctx_t* quicdoq_create_udp_ctx(quicdoq_ctx_t* quicdoq_ctx, struct sockaddr* addr)$/;"	f	typeref:typename:quicdoq_udp_ctx_t *
+quicdoq_ctx	quicdoq/quicdoq_internal.h	/^    quicdoq_ctx_t* quicdoq_ctx;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:quicdoq_ctx_t *
+quicdoq_ctx	quicdoq/quicdoq_internal.h	/^    struct st_quicdoq_ctx_t* quicdoq_ctx;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:struct:st_quicdoq_ctx_t *
+quicdoq_ctx_t	quicdoq/quicdoq.h	/^    typedef struct st_quicdoq_ctx_t quicdoq_ctx_t;$/;"	t	typeref:struct:st_quicdoq_ctx_t
+quicdoq_ctx_t	quicdoq/quicdoq_internal.h	/^} quicdoq_ctx_t;$/;"	t	typeref:struct:st_quicdoq_ctx_t
+quicdoq_delete	quicdoq/quicdoq.c	/^void quicdoq_delete(quicdoq_ctx_t* ctx)$/;"	f	typeref:typename:void
+quicdoq_delete_query_ctx	quicdoq/quicdoq.c	/^void  quicdoq_delete_query_ctx(quicdoq_query_ctx_t* query_ctx)$/;"	f	typeref:typename:void
+quicdoq_delete_stream_ctx	quicdoq/quicdoq.c	/^void quicdoq_delete_stream_ctx(quicdoq_cnx_ctx_t* cnx_ctx, quicdoq_stream_ctx_t* stream_ctx)$/;"	f	typeref:typename:void
+quicdoq_delete_udp_ctx	quicdoq/udp_relay.c	/^void quicdoq_delete_udp_ctx(quicdoq_udp_ctx_t* udp_ctx)$/;"	f	typeref:typename:void
+quicdoq_demo_client_cb	quicdoq_cli_app/quicdoq_app.c	/^int quicdoq_demo_client_cb($/;"	f	typeref:typename:int
+quicdoq_demo_client_ctx_t	quicdoq_cli_app/quicdoq_app.c	/^} quicdoq_demo_client_ctx_t;$/;"	t	typeref:struct:st_quicdoq_demo_client_ctx_t	file:
+quicdoq_demo_client_init_context	quicdoq_cli_app/quicdoq_app.c	/^int quicdoq_demo_client_init_context(quicdoq_ctx_t* qd_client, quicdoq_demo_client_ctx_t * clien/;"	f	typeref:typename:int
+quicdoq_demo_client_init_query	quicdoq_cli_app/quicdoq_app.c	/^int quicdoq_demo_client_init_query(quicdoq_query_ctx_t* query_ctx, char const* client_query_text/;"	f	typeref:typename:int
+quicdoq_demo_client_reset_context	quicdoq_cli_app/quicdoq_app.c	/^void quicdoq_demo_client_reset_context(quicdoq_ctx_t* qd_client, quicdoq_demo_client_ctx_t * cli/;"	f	typeref:typename:void
+quicdoq_demo_print_response	quicdoq_cli_app/quicdoq_app.c	/^void quicdoq_demo_print_response(quicdoq_query_ctx_t* query_ctx)$/;"	f	typeref:typename:void
+quicdoq_demo_server	quicdoq_cli_app/quicdoq_app.c	/^int quicdoq_demo_server($/;"	f	typeref:typename:int
+quicdoq_find_cnx_ctx	quicdoq/quicdoq.c	/^quicdoq_cnx_ctx_t* quicdoq_find_cnx_ctx(quicdoq_ctx_t* quicdoq_ctx, char const* sni, struct sock/;"	f	typeref:typename:quicdoq_cnx_ctx_t *
+quicdoq_find_or_create_stream	quicdoq/quicdoq.c	/^quicdoq_stream_ctx_t* quicdoq_find_or_create_stream(uint64_t stream_id, quicdoq_cnx_ctx_t* cnx_c/;"	f	typeref:typename:quicdoq_stream_ctx_t *
+quicdoq_format_refuse_response	quicdoq/quicdoq.c	/^int quicdoq_format_refuse_response($/;"	f	typeref:typename:int
+quicdoq_get_quic_ctx	quicdoq/quicdoq.c	/^picoquic_quic_t* quicdoq_get_quic_ctx(quicdoq_ctx_t* ctx)$/;"	f	typeref:typename:picoquic_quic_t *
+quicdoq_get_rr_type	quicdoq/quicdoq_util.c	/^uint16_t quicdoq_get_rr_type(char const* rr_name) {$/;"	f	typeref:typename:uint16_t
+quicdoq_incoming_query	quicdoq/quicdoq.h	/^        quicdoq_incoming_query = 0, \/* Incoming callback query *\/$/;"	e	enum:__anon7c3cbeb60103
+quicdoq_is_closed	quicdoq/quicdoq.c	/^int quicdoq_is_closed(quicdoq_ctx_t* quicdoq_ctx)$/;"	f	typeref:typename:int
+quicdoq_multi_queries_test	quicdoq_test/network_test.c	/^int quicdoq_multi_queries_test()$/;"	f	typeref:typename:int
+quicdoq_multi_udp_test	quicdoq_test/network_test.c	/^int quicdoq_multi_udp_test()$/;"	f	typeref:typename:int
+quicdoq_next_udp_time	quicdoq/udp_relay.c	/^uint64_t quicdoq_next_udp_time(quicdoq_udp_ctx_t* udp_ctx)$/;"	f	typeref:typename:uint64_t
+quicdoq_one_loss_test	quicdoq_test/network_test.c	/^int quicdoq_one_loss_test()$/;"	f	typeref:typename:int
+quicdoq_one_loss_udp_test	quicdoq_test/network_test.c	/^int quicdoq_one_loss_udp_test()$/;"	f	typeref:typename:int
+quicdoq_parse_dns_RR	quicdoq/quicdoq_util.c	/^size_t quicdoq_parse_dns_RR(const uint8_t* packet, size_t length, size_t start,$/;"	f	typeref:typename:size_t
+quicdoq_parse_dns_name	quicdoq/quicdoq_util.c	/^size_t quicdoq_parse_dns_name(const uint8_t* packet, size_t length, size_t start,$/;"	f	typeref:typename:size_t
+quicdoq_parse_dns_query	quicdoq/quicdoq_util.c	/^size_t quicdoq_parse_dns_query(const uint8_t* packet, size_t length, size_t start,$/;"	f	typeref:typename:size_t
+quicdoq_post_query	quicdoq/quicdoq.c	/^int quicdoq_post_query(quicdoq_ctx_t* quicdoq_ctx, quicdoq_query_ctx_t* query_ctx)$/;"	f	typeref:typename:int
+quicdoq_post_response	quicdoq/quicdoq.c	/^int quicdoq_post_response(quicdoq_query_ctx_t* query_ctx)$/;"	f	typeref:typename:int
+quicdoq_query_cancelled	quicdoq/quicdoq.h	/^        quicdoq_query_cancelled, \/* Query cancelled before response provided *\/$/;"	e	enum:__anon7c3cbeb60103
+quicdoq_query_ctx_t	quicdoq/quicdoq.h	/^    typedef struct st_quicdoq_query_ctx_t quicdoq_query_ctx_t;$/;"	t	typeref:struct:st_quicdoq_query_ctx_t
+quicdoq_query_ctx_t	quicdoq/quicdoq.h	/^    } quicdoq_query_ctx_t;$/;"	t	typeref:struct:st_quicdoq_query_ctx_t
+quicdoq_query_failed	quicdoq/quicdoq.h	/^        quicdoq_query_failed  \/* Query failed for reasons other than cancelled. *\/$/;"	e	enum:__anon7c3cbeb60103
+quicdoq_query_return_enum	quicdoq/quicdoq.h	/^    } quicdoq_query_return_enum;$/;"	t	typeref:enum:__anon7c3cbeb60103
+quicdoq_refuse_response	quicdoq/quicdoq.c	/^int quicdoq_refuse_response(quicdoq_ctx_t* quicdoq_ctx, quicdoq_query_ctx_t* query_ctx, uint16_t/;"	f	typeref:typename:int
+quicdoq_reset_test_response_queue	quicdoq_test/network_test.c	/^void quicdoq_reset_test_response_queue(quicdog_test_ctx_t* test_ctx)$/;"	f	typeref:typename:void
+quicdoq_response_cancelled	quicdoq/quicdoq.h	/^        quicdoq_response_cancelled, \/* The response to the current query was cancelled by the p/;"	e	enum:__anon7c3cbeb60103
+quicdoq_response_complete	quicdoq/quicdoq.h	/^        quicdoq_response_complete, \/* The last response to the current query arrived. *\/$/;"	e	enum:__anon7c3cbeb60103
+quicdoq_response_partial	quicdoq/quicdoq.h	/^        quicdoq_response_partial, \/* One of the first responses to a query has arrived *\/$/;"	e	enum:__anon7c3cbeb60103
+quicdoq_rr_entry_t	quicdoq/quicdoq.h	/^    } quicdoq_rr_entry_t;$/;"	t	typeref:struct:st_quicdoq_rr_entry_t
+quicdoq_set_callback	quicdoq/quicdoq.c	/^void quicdoq_set_callback(quicdoq_ctx_t* ctx, quicdoq_app_cb_fn app_cb_fn, void* app_cb_ctx)$/;"	f	typeref:typename:void
+quicdoq_set_default_tp	quicdoq/quicdoq.c	/^int quicdoq_set_default_tp(quicdoq_ctx_t* quicdoq_ctx)$/;"	f	typeref:typename:int
+quicdoq_set_test_response_queue	quicdoq_test/network_test.c	/^void quicdoq_set_test_response_queue(quicdog_test_ctx_t* test_ctx, uint16_t qid)$/;"	f	typeref:typename:void
+quicdoq_set_tp	quicdoq/quicdoq.c	/^void quicdoq_set_tp(picoquic_cnx_t * cnx)$/;"	f	typeref:typename:void
+quicdoq_skip_dns_name	quicdoq/quicdoq_util.c	/^size_t quicdoq_skip_dns_name(const uint8_t* packet, size_t length, size_t start)$/;"	f	typeref:typename:size_t
+quicdoq_sprintf	quicdoq/quicdoq_util.c	/^uint8_t* quicdoq_sprintf(uint8_t* text, uint8_t* text_max, const char* fmt, ...)$/;"	f	typeref:typename:uint8_t *
+quicdoq_stream_ctx_t	quicdoq/quicdoq_internal.h	/^typedef struct st_quicdoq_stream_ctx_t quicdoq_stream_ctx_t;$/;"	t	typeref:struct:st_quicdoq_stream_ctx_t
+quicdoq_stream_ctx_t	quicdoq/quicdoq_internal.h	/^} quicdoq_stream_ctx_t;$/;"	t	typeref:struct:st_quicdoq_stream_ctx_t
+quicdoq_t	CMakeLists.txt	/^add_executable(quicdoq_t$/;"	t
+quicdoq_t	Makefile	/^quicdoq_t: cmake_check_build_system$/;"	t
+quicdoq_t/fast	Makefile	/^quicdoq_t\/fast:$/;"	t
+quicdoq_test/dnscode_test.c.i	Makefile	/^quicdoq_test\/dnscode_test.c.i:$/;"	t
+quicdoq_test/dnscode_test.c.o	Makefile	/^quicdoq_test\/dnscode_test.c.o:$/;"	t
+quicdoq_test/dnscode_test.c.s	Makefile	/^quicdoq_test\/dnscode_test.c.s:$/;"	t
+quicdoq_test/dnscode_test.i	Makefile	/^quicdoq_test\/dnscode_test.i: quicdoq_test\/dnscode_test.c.i$/;"	t
+quicdoq_test/dnscode_test.o	Makefile	/^quicdoq_test\/dnscode_test.o: quicdoq_test\/dnscode_test.c.o$/;"	t
+quicdoq_test/dnscode_test.s	Makefile	/^quicdoq_test\/dnscode_test.s: quicdoq_test\/dnscode_test.c.s$/;"	t
+quicdoq_test/network_test.c.i	Makefile	/^quicdoq_test\/network_test.c.i:$/;"	t
+quicdoq_test/network_test.c.o	Makefile	/^quicdoq_test\/network_test.c.o:$/;"	t
+quicdoq_test/network_test.c.s	Makefile	/^quicdoq_test\/network_test.c.s:$/;"	t
+quicdoq_test/network_test.i	Makefile	/^quicdoq_test\/network_test.i: quicdoq_test\/network_test.c.i$/;"	t
+quicdoq_test/network_test.o	Makefile	/^quicdoq_test\/network_test.o: quicdoq_test\/network_test.c.o$/;"	t
+quicdoq_test/network_test.s	Makefile	/^quicdoq_test\/network_test.s: quicdoq_test\/network_test.c.s$/;"	t
+quicdoq_test_H	quicdoq_test/quicdoq_test.h	/^#define quicdoq_test_H$/;"	d
+quicdoq_test_client_cb	quicdoq_test/network_test.c	/^int quicdoq_test_client_cb($/;"	f	typeref:typename:int
+quicdoq_test_client_submit_query	quicdoq_test/network_test.c	/^int quicdoq_test_client_submit_query(quicdog_test_ctx_t* test_ctx)$/;"	f	typeref:typename:int
+quicdoq_test_ctx_create	quicdoq_test/network_test.c	/^quicdog_test_ctx_t* quicdoq_test_ctx_create(quicdoq_test_scenario_entry_t const * scenario, size/;"	f	typeref:typename:quicdog_test_ctx_t *
+quicdoq_test_ctx_delete	quicdoq_test/network_test.c	/^void quicdoq_test_ctx_delete(quicdog_test_ctx_t* test_ctx)$/;"	f	typeref:typename:void
+quicdoq_test_picoquic_solution_dir	quicdoq_test/network_test.c	/^char const* quicdoq_test_picoquic_solution_dir = QUICDOQ_PICOQUIC_DEFAULT_SOLUTION_DIR;$/;"	v	typeref:typename:char const *
+quicdoq_test_scenario	quicdoq_test/network_test.c	/^int quicdoq_test_scenario(quicdoq_test_scenario_entry_t const* scenario, size_t size_of_scenario/;"	f	typeref:typename:int
+quicdoq_test_scenario_entry_t	quicdoq_test/network_test.c	/^} quicdoq_test_scenario_entry_t;$/;"	t	typeref:struct:st_quicdoq_test_scenario_entry_t	file:
+quicdoq_test_scenario_record_t	quicdoq_test/network_test.c	/^} quicdoq_test_scenario_record_t;$/;"	t	typeref:struct:st_quicdoq_test_scenario_record_t	file:
+quicdoq_test_server_cb	quicdoq_test/network_test.c	/^int quicdoq_test_server_cb($/;"	f	typeref:typename:int
+quicdoq_test_server_sim_udp_response	quicdoq_test/network_test.c	/^int quicdoq_test_server_sim_udp_response(quicdog_test_ctx_t* test_ctx, picoquictest_sim_link_t* /;"	f	typeref:typename:int
+quicdoq_test_server_submit_response	quicdoq_test/network_test.c	/^int quicdoq_test_server_submit_response(quicdog_test_ctx_t* test_ctx)$/;"	f	typeref:typename:int
+quicdoq_test_sim_packet_input	quicdoq_test/network_test.c	/^int quicdoq_test_sim_packet_input(quicdog_test_ctx_t* test_ctx, picoquic_quic_t* quic, picoquict/;"	f	typeref:typename:int
+quicdoq_test_sim_packet_prepare	quicdoq_test/network_test.c	/^int quicdoq_test_sim_packet_prepare(quicdog_test_ctx_t* test_ctx, quicdoq_ctx_t* quicdoq_ctx, pi/;"	f	typeref:typename:int
+quicdoq_test_sim_run	quicdoq_test/network_test.c	/^int quicdoq_test_sim_run(quicdog_test_ctx_t* test_ctx, uint64_t time_limit)$/;"	f	typeref:typename:int
+quicdoq_test_sim_step	quicdoq_test/network_test.c	/^int quicdoq_test_sim_step(quicdog_test_ctx_t* test_ctx, int * is_active)$/;"	f	typeref:typename:int
+quicdoq_test_sim_udp_input	quicdoq_test/network_test.c	/^int quicdoq_test_sim_udp_input(quicdog_test_ctx_t* test_ctx, picoquictest_sim_link_t* link, int*/;"	f	typeref:typename:int
+quicdoq_test_sim_udp_output	quicdoq_test/network_test.c	/^int quicdoq_test_sim_udp_output(quicdog_test_ctx_t* test_ctx, picoquictest_sim_link_t* link, int/;"	f	typeref:typename:int
+quicdoq_test_udp_packet_prepare	quicdoq_test/network_test.c	/^int quicdoq_test_udp_packet_prepare(quicdog_test_ctx_t* test_ctx, picoquictest_sim_link_t* link,/;"	f	typeref:typename:int
+quicdoq_udp_callback	quicdoq/udp_relay.c	/^int quicdoq_udp_callback($/;"	f	typeref:typename:int
+quicdoq_udp_cancel_query	quicdoq/udp_relay.c	/^int quicdoq_udp_cancel_query(quicdoq_udp_ctx_t* udp_ctx, quicdog_udp_queued_t* quq_ctx, uint16_t/;"	f	typeref:typename:int
+quicdoq_udp_ctx_t	quicdoq/quicdoq.h	/^    typedef struct st_quicdoq_udp_ctx_t quicdoq_udp_ctx_t;$/;"	t	typeref:struct:st_quicdoq_udp_ctx_t
+quicdoq_udp_ctx_t	quicdoq/quicdoq_internal.h	/^} quicdoq_udp_ctx_t;$/;"	t	typeref:struct:st_quicdoq_udp_ctx_t
+quicdoq_udp_find_by_id	quicdoq/udp_relay.c	/^quicdog_udp_queued_t* quicdoq_udp_find_by_id(quicdoq_udp_ctx_t* udp_ctx, uint16_t id)$/;"	f	typeref:typename:quicdog_udp_queued_t *
+quicdoq_udp_incoming_packet	quicdoq/udp_relay.c	/^void quicdoq_udp_incoming_packet($/;"	f	typeref:typename:void
+quicdoq_udp_insert_in_list	quicdoq/udp_relay.c	/^void quicdoq_udp_insert_in_list(quicdoq_udp_ctx_t* udp_ctx, quicdog_udp_queued_t* quq_ctx)$/;"	f	typeref:typename:void
+quicdoq_udp_prepare_next_packet	quicdoq/udp_relay.c	/^void quicdoq_udp_prepare_next_packet(quicdoq_udp_ctx_t* udp_ctx,$/;"	f	typeref:typename:void
+quicdoq_udp_reinsert_in_list	quicdoq/udp_relay.c	/^void quicdoq_udp_reinsert_in_list(quicdoq_udp_ctx_t* udp_ctx, quicdog_udp_queued_t* quq_ctx)$/;"	f	typeref:typename:void
+quicdoq_udp_remove_from_list	quicdoq/udp_relay.c	/^void quicdoq_udp_remove_from_list(quicdoq_udp_ctx_t* udp_ctx, quicdog_udp_queued_t* quq_ctx)$/;"	f	typeref:typename:void
+quicdoqunittest	quicdoq_unittest/quicdoq_unittest.cpp	/^namespace quicdoqunittest$/;"	n	file:
+rebuild_cache	Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+record	quicdoq_test/network_test.c	/^    quicdoq_test_scenario_record_t* record;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:quicdoq_test_scenario_record_t *	file:
+refuse_format_test_one	quicdoq_test/dnscode_test.c	/^int refuse_format_test_one(uint8_t* query, size_t query_length, int expected_ret, uint8_t* respo/;"	f	typeref:typename:int
+response	quicdoq/quicdoq.h	/^        uint8_t* response; \/* buffer holding the response *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint8_t *
+response_arrival_time	quicdoq_test/network_test.c	/^    uint64_t response_arrival_time;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:uint64_t	file:
+response_delay	quicdoq_test/network_test.c	/^    uint64_t response_delay;$/;"	m	struct:st_quicdoq_test_scenario_entry_t	typeref:typename:uint64_t	file:
+response_length	quicdoq/quicdoq.h	/^        size_t response_length; \/* size of the actual response *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:size_t
+response_max_size	quicdoq/quicdoq.h	/^        uint16_t response_max_size; \/* size of the response buffer *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint16_t
+response_received	quicdoq_test/network_test.c	/^    int response_received;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:int	file:
+response_sent_time	quicdoq_test/network_test.c	/^    uint64_t response_sent_time;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:uint64_t	file:
+return_code	quicdoq/quicdoq.h	/^        quicdoq_query_return_enum return_code;$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:quicdoq_query_return_enum
+rr_name	quicdoq/quicdoq.h	/^        char const* rr_name;$/;"	m	struct:st_quicdoq_rr_entry_t	typeref:typename:char const *
+rr_name_parse_test	quicdoq_test/dnscode_test.c	/^int rr_name_parse_test()$/;"	f	typeref:typename:int
+rr_table	quicdoq/quicdoq_util.c	/^const quicdoq_rr_entry_t rr_table[] = {$/;"	v	typeref:typename:const quicdoq_rr_entry_t[]
+rr_type	quicdoq/quicdoq.h	/^        uint16_t rr_type;$/;"	m	struct:st_quicdoq_rr_entry_t	typeref:typename:uint16_t
+rto	quicdoq/quicdoq_internal.h	/^    uint64_t rto;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:uint64_t
+rtt_min	quicdoq/quicdoq_internal.h	/^    uint64_t rtt_min;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:uint64_t
+scenario	quicdoq_test/network_test.c	/^    quicdoq_test_scenario_entry_t const* scenario;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:quicdoq_test_scenario_entry_t const *	file:
+schedule_time	quicdoq_test/network_test.c	/^    uint64_t schedule_time;$/;"	m	struct:st_quicdoq_test_scenario_entry_t	typeref:typename:uint64_t	file:
+server_addr	quicdoq/quicdoq.h	/^        struct sockaddr* server_addr; \/* Address of the target server *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:struct:sockaddr *
+server_addr	quicdoq_test/network_test.c	/^    struct sockaddr_storage server_addr;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:struct:sockaddr_storage	file:
+server_error	quicdoq_test/network_test.c	/^    int server_error;$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:int	file:
+server_link	quicdoq_test/network_test.c	/^    picoquictest_sim_link_t* server_link;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:picoquictest_sim_link_t *	file:
+server_name	quicdoq/quicdoq.h	/^        char const* server_name; \/* Server SNI in outgoing query, client SNI in incoming query /;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:char const *
+simulated_time	quicdoq_test/network_test.c	/^    uint64_t simulated_time;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:uint64_t	file:
+sni	quicdoq/quicdoq_internal.h	/^    char* sni;$/;"	m	struct:st_quicdoq_cnx_ctx_t	typeref:typename:char *
+some_query_failed	quicdoq_test/network_test.c	/^    int some_query_failed;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:int	file:
+some_query_inconsistent	quicdoq_test/network_test.c	/^    int some_query_inconsistent;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:int	file:
+srtt	quicdoq/quicdoq_internal.h	/^    uint64_t srtt;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:typename:uint64_t
+st_dnscode_testLine	quicdoq_test/dnscode_test.c	/^static struct st_dnscode_testLine {$/;"	s	file:
+st_picoquic_test_def_t	quicdoq_cli_test/quicdoq_t.c	/^typedef struct st_picoquic_test_def_t {$/;"	s	file:
+st_quicdog_test_ctx_t	quicdoq_test/network_test.c	/^typedef struct st_quicdog_test_ctx_t {$/;"	s	file:
+st_quicdog_udp_queued_t	quicdoq/quicdoq_internal.h	/^typedef struct st_quicdog_udp_queued_t {$/;"	s
+st_quicdoq_cnx_ctx_t	quicdoq/quicdoq_internal.h	/^typedef struct st_quicdoq_cnx_ctx_t {$/;"	s
+st_quicdoq_ctx_t	quicdoq/quicdoq_internal.h	/^typedef struct st_quicdoq_ctx_t {$/;"	s
+st_quicdoq_demo_client_ctx_t	quicdoq_cli_app/quicdoq_app.c	/^typedef struct st_quicdoq_demo_client_ctx_t {$/;"	s	file:
+st_quicdoq_query_ctx_t	quicdoq/quicdoq.h	/^    typedef struct st_quicdoq_query_ctx_t {$/;"	s
+st_quicdoq_rr_entry_t	quicdoq/quicdoq.h	/^    typedef struct st_quicdoq_rr_entry_t {$/;"	s
+st_quicdoq_stream_ctx_t	quicdoq/quicdoq_internal.h	/^typedef struct st_quicdoq_stream_ctx_t {$/;"	s
+st_quicdoq_test_scenario_entry_t	quicdoq_test/network_test.c	/^typedef struct st_quicdoq_test_scenario_entry_t {$/;"	s	file:
+st_quicdoq_test_scenario_record_t	quicdoq_test/network_test.c	/^typedef struct st_quicdoq_test_scenario_record_t {$/;"	s	file:
+st_quicdoq_udp_ctx_t	quicdoq/quicdoq_internal.h	/^typedef struct st_quicdoq_udp_ctx_t {$/;"	s
+start_time	quicdoq_cli_app/quicdoq_app.c	/^    uint64_t start_time;$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:uint64_t	file:
+stream_id	quicdoq/quicdoq.h	/^        uint64_t stream_id; \/* ID of the stream on which the query is mapped. *\/$/;"	m	struct:st_quicdoq_query_ctx_t	typeref:typename:uint64_t
+stream_id	quicdoq/quicdoq_internal.h	/^    uint64_t stream_id;$/;"	m	struct:st_quicdoq_stream_ctx_t	typeref:typename:uint64_t
+stream_id	quicdoq_test/network_test.c	/^    uint64_t stream_id; \/* ID of the stream on which the query is mapped. *\/$/;"	m	struct:st_quicdoq_test_scenario_record_t	typeref:typename:uint64_t	file:
+test_excluded	quicdoq_cli_test/quicdoq_t.c	/^    test_excluded,$/;"	e	enum:__anon6f383e1a0103	file:
+test_failed	quicdoq_cli_test/quicdoq_t.c	/^    test_failed$/;"	e	enum:__anon6f383e1a0103	file:
+test_fn	quicdoq_cli_test/quicdoq_t.c	/^    int (*test_fn)();$/;"	m	struct:st_picoquic_test_def_t	typeref:typename:int (*)()	file:
+test_name	quicdoq_cli_test/quicdoq_t.c	/^    char const* test_name;$/;"	m	struct:st_picoquic_test_def_t	typeref:typename:char const *	file:
+test_not_run	quicdoq_cli_test/quicdoq_t.c	/^    test_not_run = 0,$/;"	e	enum:__anon6f383e1a0103	file:
+test_server_cert_file	quicdoq_test/network_test.c	/^    char test_server_cert_file[512];$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:char[512]	file:
+test_server_cert_store_file	quicdoq_cli_app/quicdoq_app.c	/^    char test_server_cert_store_file[512];$/;"	m	struct:st_quicdoq_demo_client_ctx_t	typeref:typename:char[512]	file:
+test_server_cert_store_file	quicdoq_test/network_test.c	/^    char test_server_cert_store_file[512];$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:char[512]	file:
+test_server_key_file	quicdoq_test/network_test.c	/^    char test_server_key_file[512];$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:char[512]	file:
+test_status_t	quicdoq_cli_test/quicdoq_t.c	/^} test_status_t;$/;"	t	typeref:enum:__anon6f383e1a0103	file:
+test_success	quicdoq_cli_test/quicdoq_t.c	/^    test_success,$/;"	e	enum:__anon6f383e1a0103	file:
+test_table	quicdoq_cli_test/quicdoq_t.c	/^static const picoquic_test_def_t test_table[] = {$/;"	v	typeref:typename:const picoquic_test_def_t[]	file:
+udp_addr	quicdoq/quicdoq_internal.h	/^    struct sockaddr_storage udp_addr;$/;"	m	struct:st_quicdoq_udp_ctx_t	typeref:struct:sockaddr_storage
+udp_addr	quicdoq_test/network_test.c	/^    struct sockaddr_storage udp_addr;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:struct:sockaddr_storage	file:
+udp_ctx	quicdoq_test/network_test.c	/^    quicdoq_udp_ctx_t* udp_ctx;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:quicdoq_udp_ctx_t *	file:
+udp_link_in	quicdoq_test/network_test.c	/^    picoquictest_sim_link_t* udp_link_in;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:picoquictest_sim_link_t *	file:
+udp_link_out	quicdoq_test/network_test.c	/^    picoquictest_sim_link_t* udp_link_out;$/;"	m	struct:st_quicdog_test_ctx_t	typeref:typename:picoquictest_sim_link_t *	file:
+udp_query_id	quicdoq/quicdoq_internal.h	/^    uint16_t udp_query_id;$/;"	m	struct:st_quicdog_udp_queued_t	typeref:typename:uint16_t
+usage	quicdoq_cli_app/quicdoq_app.c	/^void usage()$/;"	f	typeref:typename:void
+usage	quicdoq_cli_test/quicdoq_t.c	/^int usage(char const* argv0)$/;"	f	typeref:typename:int
+volatile	CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:

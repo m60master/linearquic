@@ -1,0 +1,2 @@
+/usr/bin/ar qc libquicdoq-core.a CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o
+/usr/bin/ranlib libquicdoq-core.a
