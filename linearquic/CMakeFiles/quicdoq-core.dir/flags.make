@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/jungyoon/quicdog/quicdoq -I/home/jungyoon/quicdog/quicdoq_test -I/home/jungyoon/workspace/quic/picoquic/picoquic -I/home/jungyoon/workspace/quic/picoquic/loglib -I/home/jungyoon/workspace/quic/picotls/include -I/home/jungyoon/.miniconda3/include
+C_INCLUDES = -I/home/jungyoon/workspace/linearquic/linearquic/quicdoq -I/home/jungyoon/workspace/linearquic/linearquic/quicdoq_test -I/home/jungyoon/workspace/linearquic/picoquic/picoquic -I/home/jungyoon/workspace/linearquic/picoquic/loglib -I/home/jungyoon/workspace/linearquic/picotls/include -I/home/jungyoon/.miniconda3/include
 
 C_FLAGS = -std=c99 -Wall -Werror -O0 -g   -std=gnu11
 

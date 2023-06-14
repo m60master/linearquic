@@ -57,10 +57,10 @@ RM = /home/jungyoon/.miniconda3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jungyoon/workspace/quic/quicdoq
+CMAKE_SOURCE_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jungyoon/quicdog
+CMAKE_BINARY_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jungyoon/quicdog/CMakeFiles /home/jungyoon/quicdog//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/jungyoon/workspace/linearquic/linearquic/CMakeFiles /home/jungyoon/workspace/linearquic/linearquic//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jungyoon/quicdog/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/jungyoon/workspace/linearquic/linearquic/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

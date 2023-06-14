@@ -53,10 +53,10 @@ RM = /home/jungyoon/.miniconda3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jungyoon/workspace/quic/quicdoq
+CMAKE_SOURCE_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jungyoon/quicdog
+CMAKE_BINARY_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # Include any dependencies generated for this target.
 include CMakeFiles/quicdoq-core.dir/depend.make
@@ -72,44 +72,44 @@ include CMakeFiles/quicdoq-core.dir/flags.make
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: CMakeFiles/quicdoq-core.dir/flags.make
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: quicdoq/quicdoq.c
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: CMakeFiles/quicdoq-core.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/quicdog/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o -MF CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o.d -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o -c /home/jungyoon/quicdog/quicdoq/quicdoq.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/workspace/linearquic/linearquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o -MF CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o.d -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o -c /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.c
 
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/quicdog/quicdoq/quicdoq.c > CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.c > CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.i
 
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/quicdog/quicdoq/quicdoq.c -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.c -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.s
 
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o: CMakeFiles/quicdoq-core.dir/flags.make
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o: quicdoq/quicdoq_util.c
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o: CMakeFiles/quicdoq-core.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/quicdog/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o -MF CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o.d -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o -c /home/jungyoon/quicdog/quicdoq/quicdoq_util.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/workspace/linearquic/linearquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o -MF CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o.d -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o -c /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq_util.c
 
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/quicdog/quicdoq/quicdoq_util.c > CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq_util.c > CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.i
 
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/quicdog/quicdoq/quicdoq_util.c -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq_util.c -o CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.s
 
 CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o: CMakeFiles/quicdoq-core.dir/flags.make
 CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o: quicdoq/udp_relay.c
 CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o: CMakeFiles/quicdoq-core.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/quicdog/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o -MF CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o.d -o CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o -c /home/jungyoon/quicdog/quicdoq/udp_relay.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/workspace/linearquic/linearquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o -MF CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o.d -o CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o -c /home/jungyoon/workspace/linearquic/linearquic/quicdoq/udp_relay.c
 
 CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/quicdog/quicdoq/udp_relay.c > CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/workspace/linearquic/linearquic/quicdoq/udp_relay.c > CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.i
 
 CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/quicdog/quicdoq/udp_relay.c -o CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/workspace/linearquic/linearquic/quicdoq/udp_relay.c -o CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.s
 
 # Object files for target quicdoq-core
 quicdoq__core_OBJECTS = \
@@ -125,7 +125,7 @@ libquicdoq-core.a: CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o
 libquicdoq-core.a: CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o
 libquicdoq-core.a: CMakeFiles/quicdoq-core.dir/build.make
 libquicdoq-core.a: CMakeFiles/quicdoq-core.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jungyoon/quicdog/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C static library libquicdoq-core.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jungyoon/workspace/linearquic/linearquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C static library libquicdoq-core.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/quicdoq-core.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/quicdoq-core.dir/link.txt --verbose=$(VERBOSE)
 
@@ -138,6 +138,6 @@ CMakeFiles/quicdoq-core.dir/clean:
 .PHONY : CMakeFiles/quicdoq-core.dir/clean
 
 CMakeFiles/quicdoq-core.dir/depend:
-	cd /home/jungyoon/quicdog && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jungyoon/workspace/quic/quicdoq /home/jungyoon/quicdog /home/jungyoon/quicdog /home/jungyoon/quicdog /home/jungyoon/quicdog/CMakeFiles/quicdoq-core.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jungyoon/workspace/linearquic/linearquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic/CMakeFiles/quicdoq-core.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/quicdoq-core.dir/depend
 

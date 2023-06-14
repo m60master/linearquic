@@ -1,4 +1,4 @@
-# Install script for directory: /home/jungyoon/quicdog
+# Install script for directory: /home/jungyoon/workspace/linearquic/linearquic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jungyoon/quicdog/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jungyoon/workspace/linearquic/linearquic/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

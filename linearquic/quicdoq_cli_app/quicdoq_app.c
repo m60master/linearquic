@@ -1048,7 +1048,7 @@ int quicdoq_demo_server_cb(
     nb_client_queries = 1;
 
 	server_name = "192.168.0.118";
-	server_port = 8888;
+	server_port = 7777;
 
 	int tmp = quicdoq_client(server_name, server_port, dest_if, sni, alpn, root_trust_file,
             mtu_max, log_file, binlog_dir, qlog_dir, use_long_log, client_cnx_id_length, cc_algo_id,

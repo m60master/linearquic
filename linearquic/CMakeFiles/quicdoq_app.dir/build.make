@@ -53,10 +53,10 @@ RM = /home/jungyoon/.miniconda3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jungyoon/workspace/quic/quicdoq
+CMAKE_SOURCE_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jungyoon/quicdog
+CMAKE_BINARY_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # Include any dependencies generated for this target.
 include CMakeFiles/quicdoq_app.dir/depend.make
@@ -72,16 +72,16 @@ include CMakeFiles/quicdoq_app.dir/flags.make
 CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o: CMakeFiles/quicdoq_app.dir/flags.make
 CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o: quicdoq_cli_app/quicdoq_app.c
 CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o: CMakeFiles/quicdoq_app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/quicdog/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o -MF CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o.d -o CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o -c /home/jungyoon/quicdog/quicdoq_cli_app/quicdoq_app.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jungyoon/workspace/linearquic/linearquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o -MF CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o.d -o CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o -c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_app/quicdoq_app.c
 
 CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/quicdog/quicdoq_cli_app/quicdoq_app.c > CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_app/quicdoq_app.c > CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.i
 
 CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/quicdog/quicdoq_cli_app/quicdoq_app.c -o CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_app/quicdoq_app.c -o CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.s
 
 # Object files for target quicdoq_app
 quicdoq_app_OBJECTS = \
@@ -93,16 +93,16 @@ quicdoq_app_EXTERNAL_OBJECTS =
 quicdoq_app: CMakeFiles/quicdoq_app.dir/quicdoq_cli_app/quicdoq_app.c.o
 quicdoq_app: CMakeFiles/quicdoq_app.dir/build.make
 quicdoq_app: libquicdoq-core.a
-quicdoq_app: /home/jungyoon/workspace/quic/picoquic/libpicoquic-core.a
-quicdoq_app: /home/jungyoon/workspace/quic/picoquic/libpicoquic-log.a
-quicdoq_app: /home/jungyoon/workspace/quic/picotls/libpicotls-core.a
-quicdoq_app: /home/jungyoon/workspace/quic/picotls/libpicotls-minicrypto.a
-quicdoq_app: /home/jungyoon/workspace/quic/picotls/libpicotls-openssl.a
-quicdoq_app: /home/jungyoon/workspace/quic/picotls/libpicotls-fusion.a
+quicdoq_app: /home/jungyoon/workspace/linearquic/picoquic/libpicoquic-core.a
+quicdoq_app: /home/jungyoon/workspace/linearquic/picoquic/libpicoquic-log.a
+quicdoq_app: /home/jungyoon/workspace/linearquic/picotls/libpicotls-core.a
+quicdoq_app: /home/jungyoon/workspace/linearquic/picotls/libpicotls-minicrypto.a
+quicdoq_app: /home/jungyoon/workspace/linearquic/picotls/libpicotls-openssl.a
+quicdoq_app: /home/jungyoon/workspace/linearquic/picotls/libpicotls-fusion.a
 quicdoq_app: /home/jungyoon/.miniconda3/lib/libssl.so
 quicdoq_app: /home/jungyoon/.miniconda3/lib/libcrypto.so
 quicdoq_app: CMakeFiles/quicdoq_app.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jungyoon/quicdog/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable quicdoq_app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jungyoon/workspace/linearquic/linearquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable quicdoq_app"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/quicdoq_app.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -114,6 +114,6 @@ CMakeFiles/quicdoq_app.dir/clean:
 .PHONY : CMakeFiles/quicdoq_app.dir/clean
 
 CMakeFiles/quicdoq_app.dir/depend:
-	cd /home/jungyoon/quicdog && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jungyoon/workspace/quic/quicdoq /home/jungyoon/quicdog /home/jungyoon/quicdog /home/jungyoon/quicdog /home/jungyoon/quicdog/CMakeFiles/quicdoq_app.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jungyoon/workspace/linearquic/linearquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic/CMakeFiles/quicdoq_app.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/quicdoq_app.dir/depend
 

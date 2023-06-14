@@ -63,7 +63,7 @@ CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: quicdoq/quicdoq.c \
   /usr/include/stdint.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/stdint-uintn.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
   /usr/include/arpa/inet.h \
   /usr/include/netinet/in.h \
   /usr/include/sys/socket.h \
@@ -91,9 +91,9 @@ CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: quicdoq/quicdoq.c \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/unistd_ext.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic_utils.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic_utils.h \
   /usr/include/inttypes.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
   quicdoq/quicdoq.h \
   quicdoq/quicdoq_internal.h
 
@@ -159,7 +159,7 @@ CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o: quicdoq/quicdoq_util.c \
   /usr/include/stdint.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/stdint-uintn.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
   /usr/include/arpa/inet.h \
   /usr/include/netinet/in.h \
   /usr/include/sys/socket.h \
@@ -187,9 +187,9 @@ CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq_util.c.o: quicdoq/quicdoq_util.c \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/unistd_ext.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic_utils.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic_utils.h \
   /usr/include/inttypes.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
   quicdoq/quicdoq.h \
   quicdoq/quicdoq_internal.h
 
@@ -255,7 +255,7 @@ CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o: quicdoq/udp_relay.c \
   /usr/include/stdint.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/stdint-uintn.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
   /usr/include/arpa/inet.h \
   /usr/include/netinet/in.h \
   /usr/include/sys/socket.h \
@@ -283,9 +283,9 @@ CMakeFiles/quicdoq-core.dir/quicdoq/udp_relay.c.o: quicdoq/udp_relay.c \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/unistd_ext.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic_utils.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic_utils.h \
   /usr/include/inttypes.h \
-  /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+  /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
   quicdoq/quicdoq.h \
   quicdoq/quicdoq_internal.h
 
@@ -332,6 +332,8 @@ quicdoq/quicdoq_util.c:
 
 /usr/include/arpa/inet.h:
 
+/home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h:
+
 /usr/include/bits/wchar.h:
 
 /usr/include/stdint.h:
@@ -347,8 +349,6 @@ quicdoq/quicdoq_util.c:
 /usr/include/bits/types/__sigset_t.h:
 
 /usr/include/bits/floatn-common.h:
-
-/home/jungyoon/workspace/quic/picoquic/picoquic/picoquic_utils.h:
 
 /usr/include/bits/types/FILE.h:
 
@@ -412,8 +412,6 @@ quicdoq/quicdoq.h:
 
 /usr/include/bits/typesizes.h:
 
-/home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h:
-
 /usr/include/bits/time64.h:
 
 /usr/include/string.h:
@@ -433,6 +431,8 @@ quicdoq/quicdoq.h:
 /usr/include/linux/stddef.h:
 
 /usr/include/sys/types.h:
+
+/home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic_utils.h:
 
 /usr/include/bits/types/clock_t.h:
 

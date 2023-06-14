@@ -1,10 +1,11 @@
 CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: \
- /home/jungyoon/quicdog/quicdoq/quicdoq.c /usr/include/stdc-predef.h \
- /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
- /usr/include/features.h /usr/include/features-time64.h \
- /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
- /usr/include/sys/cdefs.h /usr/include/bits/long-double.h \
- /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.c \
+ /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /usr/include/bits/libc-header-start.h /usr/include/features.h \
+ /usr/include/features-time64.h /usr/include/bits/wordsize.h \
+ /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/long-double.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/11/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/11/include/stdarg.h \
  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
@@ -35,7 +36,7 @@ CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: \
  /usr/lib/gcc/x86_64-pc-linux-gnu/11/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-uintn.h \
- /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
+ /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
  /usr/include/arpa/inet.h /usr/include/netinet/in.h \
  /usr/include/sys/socket.h /usr/include/bits/types/struct_iovec.h \
  /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
@@ -50,8 +51,8 @@ CMakeFiles/quicdoq-core.dir/quicdoq/quicdoq.c.o: \
  /usr/include/bits/environments.h /usr/include/bits/confname.h \
  /usr/include/bits/getopt_posix.h /usr/include/bits/getopt_core.h \
  /usr/include/bits/unistd_ext.h \
- /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic_utils.h \
+ /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic_utils.h \
  /usr/include/inttypes.h \
- /home/jungyoon/workspace/quic/picoquic/picoquic/picoquic.h \
- /home/jungyoon/quicdog/quicdoq/quicdoq.h \
- /home/jungyoon/quicdog/quicdoq/quicdoq_internal.h
+ /home/jungyoon/workspace/linearquic/picoquic/picoquic/picoquic.h \
+ /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.h \
+ /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq_internal.h

@@ -53,10 +53,10 @@ RM = /home/jungyoon/.miniconda3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jungyoon/workspace/quic/quicdoq
+CMAKE_SOURCE_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jungyoon/quicdog
+CMAKE_BINARY_DIR = /home/jungyoon/workspace/linearquic/linearquic
 
 # Utility rule file for clangformat.
 
@@ -67,7 +67,7 @@ include CMakeFiles/clangformat.dir/compiler_depend.make
 include CMakeFiles/clangformat.dir/progress.make
 
 CMakeFiles/clangformat:
-	clang-format -style=Webkit -i /home/jungyoon/quicdog/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c /home/jungyoon/quicdog/quicdoq/quicdoq.c /home/jungyoon/quicdog/quicdoq/quicdoq.h /home/jungyoon/quicdog/quicdoq/quicdoq_internal.h /home/jungyoon/quicdog/quicdoq/quicdoq_util.c /home/jungyoon/quicdog/quicdoq/udp_relay.c /home/jungyoon/quicdog/quicdoq_cli_app/quicdoq_app.c /home/jungyoon/quicdog/quicdoq_cli_test/getopt.c /home/jungyoon/quicdog/quicdoq_cli_test/getopt.h /home/jungyoon/quicdog/quicdoq_cli_test/quicdoq_t.c /home/jungyoon/quicdog/quicdoq_test/dnscode_test.c /home/jungyoon/quicdog/quicdoq_test/network_test.c /home/jungyoon/quicdog/quicdoq_test/quicdoq_test.h /home/jungyoon/quicdog/quicdoq_unittest/pch.h
+	clang-format -style=Webkit -i /home/jungyoon/workspace/linearquic/linearquic/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq.h /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq_internal.h /home/jungyoon/workspace/linearquic/linearquic/quicdoq/quicdoq_util.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq/udp_relay.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_app/quicdoq_app.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_test/getopt.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_test/getopt.h /home/jungyoon/workspace/linearquic/linearquic/quicdoq_cli_test/quicdoq_t.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_test/dnscode_test.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_test/network_test.c /home/jungyoon/workspace/linearquic/linearquic/quicdoq_test/quicdoq_test.h /home/jungyoon/workspace/linearquic/linearquic/quicdoq_unittest/pch.h
 
 clangformat: CMakeFiles/clangformat
 clangformat: CMakeFiles/clangformat.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/clangformat.dir/clean:
 .PHONY : CMakeFiles/clangformat.dir/clean
 
 CMakeFiles/clangformat.dir/depend:
-	cd /home/jungyoon/quicdog && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jungyoon/workspace/quic/quicdoq /home/jungyoon/quicdog /home/jungyoon/quicdog /home/jungyoon/quicdog /home/jungyoon/quicdog/CMakeFiles/clangformat.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jungyoon/workspace/linearquic/linearquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic /home/jungyoon/workspace/linearquic/linearquic/CMakeFiles/clangformat.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clangformat.dir/depend
 
